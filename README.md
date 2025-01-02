@@ -1,4 +1,4 @@
-# Neural Audio Synthesis Explorer
+# Text-to-Synth and Inverse-Synth
 
 This project explores neural audio synthesis by combining CLAP (Contrastive Language-Audio Pretraining) embeddings with a modular synthesizer to create sounds from text descriptions or match existing audio samples.
 
