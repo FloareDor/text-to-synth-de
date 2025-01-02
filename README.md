@@ -9,7 +9,7 @@ The project consists of two main components:
 1. **Text-to-Synth**: Generate synthesizer parameters from text descriptions
 2. **Inverse-Synth**: Reverse engineer synthesizer parameters to match target audio samples
 
-Both approaches use CLAP embeddings and differential evolution to optimize synthesizer parameters, creating an AI-guided sound design system.
+Both approaches use CLAP embeddings and differential evolution to optimize synthesizer parameters.
 
 ## Features
 
